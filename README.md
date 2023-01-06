@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ochtupus
 - 👀 I’m interested in learning to make things
-- 🌱 I’m currently learning this
+- 🌱 I’m currently learning Character animation and Unreal Engine
 - 💞️ I’m looking to collaborate with you
 - 📫 How to reach me here, idk
 
